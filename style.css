@@ -1,0 +1,36 @@
+body {
+    padding-top: 40px;
+    height: 100vh;
+    text-align: center;
+}
+
+.quoteText{
+    color: white;
+    font-size: 7vh;
+    display: block;
+    text-align: center;
+    padding-top: 150px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+hiddenText{
+    font-size: 25px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+p{
+    font-size: 35px;
+    color: rgb(172, 172, 172);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
